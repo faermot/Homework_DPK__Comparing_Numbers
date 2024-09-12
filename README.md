@@ -4,4 +4,4 @@
 
 > Карасев Илья
 
-!( [][https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/faermot/Homework_DPK__Comparing_Numbers/blob/master/lv_0_20240912214941.gif))
+![](https://github.com/faermot/Homework_DPK__Comparing_Numbers/blob/master/lv_0_20240912214941.gif)
