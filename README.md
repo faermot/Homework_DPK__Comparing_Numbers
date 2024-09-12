@@ -4,4 +4,4 @@
 
 > Карасев Илья
 
-![](https://github.com/faermot/Homework_DPK__Comparing_Numbers/blob/master/lv_0_20240912214941.gif)
+![example the work](https://github.com/user-attachments/assets/0abdfc07-0f30-424a-a57b-b87c3c861085)
